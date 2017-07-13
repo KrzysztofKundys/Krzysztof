@@ -1,2 +1,2 @@
 # Krzysztof
-hello-world.
+hello-world
